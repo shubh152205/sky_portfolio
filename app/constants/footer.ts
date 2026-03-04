@@ -16,13 +16,13 @@ export const FOOTER_LINKS: FooterLink[] = [
   {
     name: 'YouTube',
     hoverText: '@ask-shubh',
-    icon: 'icons/spotify.svg',
+    icon: 'icons/youtube.svg',
     url: 'https://www.youtube.com/@ask-shubh',
   },
   {
     name: 'Email',
     hoverText: 'ask.shubham.dev@gmail.com',
-    icon: 'icons/instagram.svg',
+    icon: 'icons/email.svg',
     url: 'mailto:ask.shubham.dev@gmail.com',
   },
   {
